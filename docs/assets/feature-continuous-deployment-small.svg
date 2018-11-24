@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="101px" viewBox="0 0 134 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>feature-continuous-deployment-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.0976,-8.24229573e-13 L45.9024,-8.24673663e-13 C47.6131572,-8.21949008e-13 49,1.38684276 49,3.0976 L49,50 L0,50 L0,3.0976 C-2.09507338e-16,1.38684276 1.38684276,-8.2524758e-13 3.0976,-8.25561841e-13 Z" id="path-1"></path>
+        <filter x="-26.5%" y="-22.0%" width="153.1%" height="152.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0683876812 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3.0976,-2.47304399e-11 L45.9024,-2.47304399e-11 C47.6131572,-2.47307542e-11 49,1.38684276 49,3.0976 L49,4 L-1.8189894e-12,4 L-1.8189894e-12,3.0976 C-1.81919891e-12,1.38684276 1.38684276,-2.47301257e-11 3.0976,-2.47304399e-11 Z" id="path-3"></path>
+        <filter x="-20.4%" y="-200.0%" width="140.8%" height="600.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0683876812 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="feature-continuous-deployment-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(7.000000, 24.000000)">
+            <g id="Group-27" transform="translate(66.000000, 0.000000)">
+                <g id="Rectangle-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group" transform="translate(21.000000, 34.000000)" stroke="#01AD9F" stroke-width="0.512">
+                    <path d="M0.124519133,1.15172991 L21.5178803,1.15172991" id="Path-42"></path>
+                    <path d="M0.124519133,3.49351562 L21.5178803,3.49351562" id="Path-42"></path>
+                    <path d="M0.124519133,5.83530133 L21.5178803,5.83530133" id="Path-42"></path>
+                    <path d="M0.124519133,8.17708705 L21.5178803,8.17708705" id="Path-42"></path>
+                </g>
+                <rect id="Rectangle-17" fill="#01AD9F" opacity="0.373716518" x="5" y="9" width="40" height="22"></rect>
+                <rect id="Rectangle-3" fill="#01AD9F" opacity="0.373716518" x="6" y="33" width="12" height="11"></rect>
+                <g id="Rectangle-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <path d="M0,4.5 L49,4.5" id="Path-32" stroke="#C5C9CB" stroke-width="0.5" opacity="0.536439732"></path>
+                <g id="Group-3" transform="translate(2.000000, 1.000000)" opacity="0.568694196">
+                    <circle id="Oval-2" fill="#FA3945" cx="0.691390128" cy="0.691390128" r="1"></circle>
+                    <circle id="Oval-2" fill="#F6BC02" cx="2.86433053" cy="0.691390128" r="1"></circle>
+                    <circle id="Oval-2" fill="#00C7B7" cx="5.03727093" cy="0.691390128" r="1"></circle>
+                </g>
+                <rect id="Rectangle-12" fill="#01AD9F" opacity="0.373716518" x="10" y="1" width="28" height="2"></rect>
+            </g>
+            <g id="Group-16" transform="translate(0.000000, 11.514321)">
+                <path d="M0.0433816831,23.1222629 L0.0433816831,3.178574 L23.8224005,3.178574 L23.8224005,12.3743351 L23.8224005,23.1222629 C23.0802738,25.0265935 19.117104,25.9787589 11.9328911,25.9787589 C5.36649635,25.9787589 0.0433816831,24.6998621 0.0433816831,23.1222629 Z" id="Combined-Shape" fill="#01AD9F"></path>
+                <path d="M23.7952688,12.9727863 C23.7952688,11.3951871 18.4721541,10.1162903 11.9057594,10.1162903 C5.33936467,10.1162903 0.0162499984,11.3951871 0.0162499984,12.9727863" id="Oval-5" stroke="#F7F8F8" stroke-width="0.8" transform="translate(11.905759, 11.544538) scale(1, -1) translate(-11.905759, -11.544538) "></path>
+                <path d="M23.9079858,6.24686724 C23.9079858,4.66926808 18.5848712,3.39037127 12.0184765,3.39037127 C5.45208173,3.39037127 0.128967062,4.66926808 0.128967062,6.24686724" id="Oval-5" stroke="#F7F8F8" stroke-width="0.96" transform="translate(12.018476, 4.818619) scale(1, -1) translate(-12.018476, -4.818619) "></path>
+                <path d="M23.7952688,19.9105026 C23.7952688,18.3329035 18.4721541,17.0540067 11.9057594,17.0540067 C5.33936467,17.0540067 0.0162499984,18.3329035 0.0162499984,19.9105026" id="Oval-5" stroke="#F7F8F8" stroke-width="0.8" transform="translate(11.905759, 18.482255) scale(1, -1) translate(-11.905759, -18.482255) "></path>
+                <ellipse id="Oval-5" fill="#01AD9F" cx="11.9057594" cy="3.178574" rx="11.8895094" ry="2.85649597"></ellipse>
+            </g>
+            <g id="Group-13" transform="translate(31.943396, 20.662965)" stroke="#14232A" stroke-width="0.64">
+                <path d="M0.0719800804,4.00958386 L23.3591009,4.00958386" id="Path-44"></path>
+                <polyline id="Rectangle-4" transform="translate(19.569404, 4.009584) rotate(45.000000) translate(-19.569404, -4.009584) " points="16.889683 1.34224296 22.2491242 1.34224296 22.2491242 6.67692476"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

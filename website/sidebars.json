@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Getting Started": ["intro",
+                        "architecture-overview"],
+    "Guides": ["getting-started",
+               "edit-a-page",
+               "add-a-collaborator",
+               "publish-a-branch"]
+  }
+}
